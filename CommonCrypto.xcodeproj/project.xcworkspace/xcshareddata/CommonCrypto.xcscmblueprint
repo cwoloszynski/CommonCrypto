@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DDF5811BCEA5BB58A023C8D7FF14133ECF5D2B57",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "39F550BFBAE1E7ED2C24891CB434942744E64D3A" : 9223372036854775807,
+    "DDF5811BCEA5BB58A023C8D7FF14133ECF5D2B57" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C3B1F204-FD12-4291-B20E-224E351E3F18",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "39F550BFBAE1E7ED2C24891CB434942744E64D3A" : "..\/..",
+    "DDF5811BCEA5BB58A023C8D7FF14133ECF5D2B57" : "CommonCrypto\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CommonCrypto",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CommonCrypto.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/cwoloszynski\/teamcanvas.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "39F550BFBAE1E7ED2C24891CB434942744E64D3A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cwoloszynski\/CommonCrypto.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DDF5811BCEA5BB58A023C8D7FF14133ECF5D2B57"
+    }
+  ]
+}
